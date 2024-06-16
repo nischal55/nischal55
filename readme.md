@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="400">
 
-- 🌱 I’m currently learning **Reactjs, Django, php**
+- 🌱 I’m currently making projects on **MERN**
 
 - 📫 How to reach me **Nischalshakya55@gmail.com**
 
